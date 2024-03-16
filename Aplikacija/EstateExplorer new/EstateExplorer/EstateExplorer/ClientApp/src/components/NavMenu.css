@@ -1,0 +1,87 @@
+﻿a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+
+
+html {
+    font-size: 14px;
+}
+
+
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+
+
+.nav {
+    font-size: 30px;
+    opacity: 0.8;
+}
+
+
+
+    .nav:hover {
+        color: lightslategrey;
+        font-size: 210%;
+        opacity: 1;
+    }
+
+
+
+
+@media (max-width: 900px) {
+    header {
+        width: 80%;
+        height: 80%;
+    }
+
+
+
+    .nav {
+        font-size: 25px;
+    }
+}
+
+
+
+
+@media (max-width: 710px) {
+    header {
+        width: 40%;
+        height: 40%;
+    }
+
+
+
+    .nav {
+        font-size: 20px;
+    }
+}
+
+
+
+@media (max-width: 610px) {
+    header {
+        width: 35%;
+        height: 35%;
+    }
+
+
+
+    .nav {
+        font-size: 17px;
+    }
+}

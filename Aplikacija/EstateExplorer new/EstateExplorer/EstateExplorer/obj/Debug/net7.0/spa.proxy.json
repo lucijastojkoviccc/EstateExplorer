@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44472",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Aleksa\\Desktop\\Elfak\\6. semestar\\SWE\\si.23.07.estateexplorer\\Aplikacija\\EstateExplorer new\\EstateExplorer\\EstateExplorer\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

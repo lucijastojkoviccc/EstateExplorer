@@ -1,0 +1,491 @@
+{
+  "zgrade": [
+    {
+      "id": 0,
+      "naziv": "Zgrada 1",
+      "ulica": "Ulica 1",
+      "brojZgrade": "1A",
+      "brojKatastarskeParcele": "1234/1",
+      "lift": true,
+      "brojSpratova": 5,
+      "grejanje": "Centralno",
+      "opis": "Objekat u Mutapovoj ulici predstavlja trospratnu visokokvalitetnu zgradu, stambeno-poslovne namene. Upravo zahvaljujući maloj spratnosti, ona se ne nameće agresivno prostoru, već odiše intimnom atmosferom, idealnom za funkciju stanovanja. lokacija objekta je jedan od bitnih faktora, s obzirom da se nalazi praktično u užem centru grada, ali tako da pruža privatnost korisnicima. Sva unutrašnja obrada, kao i stolarija, su vrhunskog kvaliteta. Svako kupatilo poseduje protočni bojler sa displejom koji greje vodu za sva točeća mesta u stanu, kao i podno grejanje. Mermer i kovano gvožđe su zastupljeni, kako na eksterijeru tako i u enterijeru zgrade, što garantuje eleganciju finalnog izgleda. Objekat je projektovan tako da ima 8 stanova na po tri etaže i 3 stana i 2 lokala na prizemnoj etaži, što je ukupno 27 stanova i 2 lokala. Strukture stanova su takve da dominiraju dvosobni i trosobni Stanovi. Parkiranje je organizovano u okviru dve podzemne etaže koje su povezane zajedničkim među-prostorom sa stepeništem i liftom. Dve garaže ukupno obezbeđuju 32 parking mesta. Takođe, pored stanova na svakoj etaži se nalaze i stanarske ostave, ukupno njih 15, koje su na raspolaganju kupcima prilikom kupovine stana.",
+      "katastarskaOpstina": "Opština 1",
+      "slika": "/Slike/Zgrada1.jpg",
+      "lokacija": "https://www.google.com/maps/@42.9963886,21.9480985,3a,75y,14.46h,97.64t/data=!3m7!1e1!3m5!1s6m9c74Se0nytg_meZ8wqAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D6m9c74Se0nytg_meZ8wqAg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D313.76895%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+      "stanovi": [
+        {
+          "id": 1,
+          "broj": 5,
+          "brojListaNepokretnosti": 123,
+          "povrsina": 70,
+          "brojSoba": 3,
+          "cenaKv": 1500,
+          "sprat": 2,
+          "brojUlaza": 1,
+          "orijentacija": "Jug",
+          "opis": "Lep stan sa terasom"
+        },
+        {
+          "id": 2,
+          "broj": 8,
+          "brojListaNepokretnosti": 234,
+          "povrsina": 100,
+          "brojSoba": 4,
+          "cenaKv": 2000,
+          "sprat": 3,
+          "brojUlaza": 2,
+          "orijentacija": "Sever",
+          "opis": "Nov stan u izgradnji"
+        },
+        {
+          "id": 3,
+          "broj": 12,
+          "brojListaNepokretnosti": 456,
+          "povrsina": 85,
+          "brojSoba": 2,
+          "cenaKv": 1800,
+          "sprat": 5,
+          "brojUlaza": 3,
+          "orijentacija": "Istok",
+          "opis": "Renoviran stan"
+        },
+        {
+          "id": 4,
+          "broj": 18,
+          "brojListaNepokretnosti": 789,
+          "povrsina": 120,
+          "brojSoba": 5,
+          "cenaKv": 2500,
+          "sprat": 1,
+          "brojUlaza": 4,
+          "orijentacija": "Zapad",
+          "opis": "Veliki porodični stan"
+        },
+        {
+          "id": 5,
+          "broj": 22,
+          "brojListaNepokretnosti": 101,
+          "povrsina": 60,
+          "brojSoba": 2,
+          "cenaKv": 1200,
+          "sprat": 4,
+          "brojUlaza": 2,
+          "orijentacija": "Severozapad",
+          "opis": "Garsonjera u centru grada"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "naziv": "Zgrada 3",
+      "ulica": "Ulica 3",
+      "brojZgrade": "3C",
+      "brojKatastarskeParcele": "9012/3",
+      "lift": true,
+      "brojSpratova": 7,
+      "grejanje": "Centralno",
+      "opis": "Ova zgrada ima sedam Spratova i centralno grejanje.",
+      "katastarskaOpstina": "Opština 3",
+      "slika": "/Slike/zgrada4.jpg",
+      "lokacija": "https://www.google.com/maps/@44.7784124,20.4739366,3a,60y,79.11h,104.93t/data=!3m6!1e1!3m4!1sDH4cl7udBT7vHElPp1wdLQ!2e0!7i13312!8i6656",
+      "stanovi": [
+        {
+          "id": 1,
+          "broj": 5,
+          "brojListaNepokretnosti": 123,
+          "povrsina": 70,
+          "brojSoba": 3,
+          "cenaKv": 1500,
+          "sprat": 2,
+          "brojUlaza": 1,
+          "orijentacija": "Jug",
+          "opis": "Lep stan sa terasom"
+        },
+        {
+          "id": 2,
+          "broj": 8,
+          "brojListaNepokretnosti": 234,
+          "povrsina": 100,
+          "brojSoba": 4,
+          "cenaKv": 2000,
+          "sprat": 3,
+          "brojUlaza": 2,
+          "orijentacija": "Sever",
+          "opis": "Nov stan u izgradnji"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "naziv": "Zgrada 4",
+      "ulica": "Ulica 4",
+      "brojZgrade": "4D",
+      "brojKatastarskeParcele": "3456/4",
+      "lift": false,
+      "brojSpratova": 2,
+      "grejanje": "Struja",
+      "opis": "Ova zgrada ima dva sprata i grejanje na struju.",
+      "katastarskaOpstina": "Opština 4",
+      "slika": "/Slike/zgrada5.jpg",
+      "lokacija": "https://www.google.com/maps/@44.0064379,20.8892226,3a,75y,324.94h,102.69t/data=!3m6!1e1!3m4!1sH42vJpgVMqFMNUNnLdJLLQ!2e0!7i13312!8i6656",
+      "stanovi": [
+        {
+          "id": 1,
+          "broj": 5,
+          "brojListaNepokretnosti": 123,
+          "povrsina": 70,
+          "brojSoba": 3,
+          "cenaKv": 1500,
+          "sprat": 2,
+          "brojUlaza": 1,
+          "orijentacija": "Jug",
+          "opis": "Lep stan sa terasom"
+        },
+        {
+          "id": 2,
+          "broj": 8,
+          "brojListaNepokretnosti": 234,
+          "povrsina": 100,
+          "brojSoba": 4,
+          "cenaKv": 2000,
+          "sprat": 3,
+          "brojUlaza": 2,
+          "orijentacija": "Sever",
+          "opis": "Nov stan u izgradnji"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "naziv": "Zgrada 5",
+      "ulica": "Ulica 5",
+      "brojZgrade": "5E",
+      "brojKatastarskeParcele": "7890/5",
+      "lift": true,
+      "brojSpratova": 4,
+      "grejanje": "Gas",
+      "opis": "Ova zgrada ima četiri sprata i grejanje na gas.",
+      "katastarskaOpstina": "Opština 5",
+      "slika": "/Slike/zgrada6.jpg",
+      "lokacija": "https://www.google.rs/maps/@43.3240953,21.9032333,3a,75y,157.38h,112.64t/data=!3m6!1e1!3m4!1sGMfkU_6TikbBcI0DWhwxng!2e0!7i13312!8i6656?expflags=__data_rollout__Tactile.IsDogfoodRollout__launched__%3Afalse%2C__data_rollout__Tactile.IsFishfoodRollout__launched__%3Afalse%2C__data_rollout__Tactile.IsDogfoodRollout__launched__%3Afalse%2C__data_rollout__Tactile.IsFishfoodRollout__launched__%3Afalse%2C__data_rollout__Tactile.IsDogfoodRollout__launched__%3Afalse%2C__data_rollout__Tactile.IsFishfoodRollout__launched__%3Afalse",
+      "stanovi": [
+        {
+          "id": 1,
+          "broj": 5,
+          "brojListaNepokretnosti": 123,
+          "povrsina": 70,
+          "brojSoba": 3,
+          "cenaKv": 1500,
+          "sprat": 2,
+          "brojUlaza": 1,
+          "orijentacija": "Jug",
+          "opis": "Lep stan sa terasom"
+        },
+        {
+          "id": 2,
+          "broj": 8,
+          "brojListaNepokretnosti": 234,
+          "povrsina": 100,
+          "brojSoba": 4,
+          "cenaKv": 2000,
+          "sprat": 3,
+          "brojUlaza": 2,
+          "orijentacija": "Sever",
+          "opis": "Nov stan u izgradnji"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "naziv": "Zgrada 6",
+      "ulica": "Ulica 6",
+      "brojZgrade": "6F",
+      "brojKatastarskeParcele": "1145/6",
+      "lift": false,
+      "brojSpratova": 3,
+      "grejanje": "Gas",
+      "opis": "Ova zgrada ima tri sprata i grejanje na gas.",
+      "katastarskaOpstina": "Opština 6",
+      "slika": "/Slike/zgrada7.jpg",
+      "lokacija": "https://www.google.rs/maps/@43.3204201,21.8924681,3a,75y,341.04h,103.56t/data=!3m6!1e1!3m4!1sKZYi-w5jDwCdL59aF0UN4g!2e0!7i13312!8i6656?expflags=__data_rollout__Tactile.IsDogfoodRollout__launched__%3Afalse%2C__data_rollout__Tactile.IsFishfoodRollout__launched__%3Afalse%2C__data_rollout__Tactile.IsDogfoodRollout__launched__%3Afalse%2C__data_rollout__Tactile.IsFishfoodRollout__launched__%3Afalse%2C__data_rollout__Tactile.IsDogfoodRollout__launched__%3Afalse%2C__data_rollout__Tactile.IsFishfoodRollout__launched__%3Afalse",
+      "stanovi": [
+        {
+          "id": 1,
+          "broj": 5,
+          "brojListaNepokretnosti": 123,
+          "povrsina": 70,
+          "brojSoba": 3,
+          "cenaKv": 1500,
+          "sprat": 2,
+          "brojUlaza": 1,
+          "orijentacija": "Jug",
+          "opis": "Lep stan sa terasom"
+        },
+        {
+          "id": 2,
+          "broj": 8,
+          "brojListaNepokretnosti": 234,
+          "povrsina": 100,
+          "brojSoba": 4,
+          "cenaKv": 2000,
+          "sprat": 3,
+          "brojUlaza": 2,
+          "orijentacija": "Sever",
+          "opis": "Nov stan u izgradnji"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "naziv": "Zgrada 7",
+      "ulica": "Ulica 1",
+      "brojZgrade": "1A",
+      "brojKatastarskeParcele": "1234/1",
+      "lift": true,
+      "brojSpratova": 5,
+      "grejanje": "Centralno",
+      "opis": "Objekat u Mutapovoj ulici predstavlja trospratnu visokokvalitetnu zgradu, stambeno-poslovne namene. Upravo zahvaljujući maloj spratnosti, ona se ne nameće agresivno prostoru, već odiše intimnom atmosferom, idealnom za funkciju stanovanja. lokacija objekta je jedan od bitnih faktora, s obzirom da se nalazi praktično u užem centru grada, ali tako da pruža privatnost korisnicima. Sva unutrašnja obrada, kao i stolarija, su vrhunskog kvaliteta. Svako kupatilo poseduje protočni bojler sa displejom koji greje vodu za sva točeća mesta u stanu, kao i podno grejanje. Mermer i kovano gvožđe su zastupljeni, kako na eksterijeru tako i u enterijeru zgrade, što garantuje eleganciju finalnog izgleda. Objekat je projektovan tako da ima 8 stanova na po tri etaže i 3 stana i 2 lokala na prizemnoj etaži, što je ukupno 27 stanova i 2 lokala. Strukture stanova su takve da dominiraju dvosobni i trosobni Stanovi. Parkiranje je organizovano u okviru dve podzemne etaže koje su povezane zajedničkim među-prostorom sa stepeništem i liftom. Dve garaže ukupno obezbeđuju 32 parking mesta. Takođe, pored stanova na svakoj etaži se nalaze i stanarske ostave, ukupno njih 15, koje su na raspolaganju kupcima prilikom kupovine stana.",
+      "katastarskaOpstina": "Opština 1",
+      "slika": "/Slike/Zgrada1.jpg",
+      "lokacija": "https://www.google.com/maps/@42.9963886,21.9480985,3a,75y,14.46h,97.64t/data=!3m7!1e1!3m5!1s6m9c74Se0nytg_meZ8wqAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D6m9c74Se0nytg_meZ8wqAg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D313.76895%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+      "stanovi": [
+        {
+          "id": 1,
+          "broj": 5,
+          "brojListaNepokretnosti": 123,
+          "povrsina": 70,
+          "brojSoba": 3,
+          "cenaKv": 1500,
+          "sprat": 2,
+          "brojUlaza": 1,
+          "orijentacija": "Jug",
+          "opis": "Lep stan sa terasom"
+        },
+        {
+          "id": 2,
+          "broj": 8,
+          "brojListaNepokretnosti": 234,
+          "povrsina": 100,
+          "brojSoba": 4,
+          "cenaKv": 2000,
+          "sprat": 3,
+          "brojUlaza": 2,
+          "orijentacija": "Sever",
+          "opis": "Nov stan u izgradnji"
+        },
+        {
+          "id": 3,
+          "broj": 12,
+          "brojListaNepokretnosti": 456,
+          "povrsina": 85,
+          "brojSoba": 2,
+          "cenaKv": 1800,
+          "sprat": 5,
+          "brojUlaza": 3,
+          "orijentacija": "Istok",
+          "opis": "Renoviran stan"
+        },
+        {
+          "id": 4,
+          "broj": 18,
+          "brojListaNepokretnosti": 789,
+          "povrsina": 120,
+          "brojSoba": 5,
+          "cenaKv": 2500,
+          "sprat": 1,
+          "brojUlaza": 4,
+          "orijentacija": "Zapad",
+          "opis": "Veliki porodični stan"
+        },
+        {
+          "id": 5,
+          "broj": 22,
+          "brojListaNepokretnosti": 101,
+          "povrsina": 60,
+          "brojSoba": 2,
+          "cenaKv": 1200,
+          "sprat": 4,
+          "brojUlaza": 2,
+          "orijentacija": "Severozapad",
+          "opis": "Garsonjera u centru grada"
+        }
+      ]
+    }
+  ],
+  "stanovi": [
+    [
+      {
+        "broj": "2",
+        "brojListaNepokretnosti": "2",
+        "povrsina": 100,
+        "brojSoba": "2",
+        "cenaKv": 1000,
+        "sprat": "2",
+        "brojUlaza": "3",
+        "orijentacija": "ad",
+        "opis": "",
+        "id": null
+      }
+    ]
+  ],
+  "info": [
+    {
+      "ime": "Filip",
+      "prezime": "Vidojkovic",
+      "maticniBroj": "1992039129312",
+      "mesto": "Nis",
+      "adresa": "Kralja Vukasina 5",
+      "zgradaN": "Zgrada 6",
+      "zgradaUlica": "Ulica 6",
+      "zgradaCena": 200000,
+      "brojUlaza": 2,
+      "sprat": 3,
+      "broj": 8,
+      "id": 1
+    }
+  ],
+  "kurs": {
+    "rsd4eur": 117.5
+  },
+  "rate": [
+    {
+      "iznosKupac": 1,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-01-25T13:01:53.028Z",
+      "status": 1,
+      "id": 1
+    },
+    {
+      "iznosKupac": 2,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-11-11T13:01:53.028Z",
+      "status": 2,
+      "id": 2
+    },
+    {
+      "iznosKupac": 3,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-10-11T13:01:53.028Z",
+      "status": 3,
+      "id": 3
+    },
+    {
+      "iznosKupac": 4,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-01-25T13:01:53.028Z",
+      "status": 1,
+      "id": 4
+    },
+    {
+      "iznosKupac": 5,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-02-11T13:01:53.028Z",
+      "status": 2,
+      "id": 5
+    },
+    {
+      "iznosKupac": 6,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-03-10T13:01:53.028Z",
+      "status": 3,
+      "id": 6
+    },
+    {
+      "iznosKupac": 7,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-04-25T13:01:53.028Z",
+      "status": 1,
+      "id": 7
+    },
+    {
+      "iznosKupac": 8,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-05-11T13:01:53.028Z",
+      "status": 2,
+      "id": 8
+    },
+    {
+      "iznosKupac": 9,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-06-10T13:01:53.028Z",
+      "status": 3,
+      "id": 9
+    },
+    {
+      "iznosKupac": 10,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-07-25T13:01:53.028Z",
+      "status": 1,
+      "id": 10
+    },
+    {
+      "iznosKupac": 11,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-08-11T13:01:53.028Z",
+      "status": 2,
+      "id": 11
+    },
+    {
+      "iznosKupac": 12,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-09-10T13:01:53.028Z",
+      "status": 3,
+      "id": 12
+    },
+    {
+      "iznosKupac": 13,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-10-25T13:01:53.028Z",
+      "status": 1,
+      "id": 13
+    },
+    {
+      "iznosKupac": 14,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-11-11T13:01:53.028Z",
+      "status": 2,
+      "id": 14
+    },
+    {
+      "iznosKupac": 15,
+      "valuta": "EUR",
+      "kes": "Kes",
+      "datumKupac": "2023-12-10T13:01:53.028Z",
+      "status": 3,
+      "id": 15
+    }
+  ],
+  "nekretnine": [
+    {
+      "id": 1,
+      "naziv": "Knjazevacka 107/80"
+    },
+    {
+      "id": 2,
+      "naziv": "Jug Bogdanova 4"
+    },
+    {
+      "id": 3,
+      "naziv": "Pufle Puflovica"
+    },
+    {
+      "id": 400,
+      "naziv": "Zeksa Stipendijasa"
+    }
+  ]
+}
